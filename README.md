@@ -14,5 +14,6 @@ Objetivo
 Atualmente, busco me aprofundar em programação e explorar oportunidades na área de desenvolvimento de software. Com o foco em aprendizado contínuo, busco sempre me manter atualizado nas últimas tendências e tecnologias, contribuindo com projetos de código aberto e aprimorando minhas habilidades em linguagens de programação como Python, JavaScript e outras ferramentas do ecossistema tecnológico.
 
 Esse tipo de resumo no seu README no GitHub pode ser uma boa maneira de mostrar sua trajetória e motivação, além de sinalizar que está sempre em busca de evolução profissional. Se tiver algum projeto já iniciado ou alguma linguagem que esteja estudando, você pode adicionar links para projetos ou até mesmo um portfólio digital, para dar mais visibilidade ao seu trabalho.
+
 Meu Contato: andersonalves@hotmail.com 
 www.linkedin.com/in/anderson-alves-de-moura-01b9b4362
