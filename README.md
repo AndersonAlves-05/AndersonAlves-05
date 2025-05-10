@@ -16,4 +16,5 @@ Atualmente, busco me aprofundar em programação e explorar oportunidades na ár
 Esse tipo de resumo no seu README no GitHub pode ser uma boa maneira de mostrar sua trajetória e motivação, além de sinalizar que está sempre em busca de evolução profissional. Se tiver algum projeto já iniciado ou alguma linguagem que esteja estudando, você pode adicionar links para projetos ou até mesmo um portfólio digital, para dar mais visibilidade ao seu trabalho.
 
 Meu Contato: andersonalves@hotmail.com 
+
 www.linkedin.com/in/anderson-alves-de-moura-01b9b4362
